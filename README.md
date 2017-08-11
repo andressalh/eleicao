@@ -1,5 +1,5 @@
 # eleicao
-Sistema pode cadastro de eleitores e candidatos, listar canditados e eleitores por cidade, estado ou região, listar todas os eleitores, candidatos, partidos, votos. E contabilizar os votos.
+Sistema pode cadastro de eleitores e candidatos, listar canditados e eleitores por cidade, estado ou região, listar todas os eleitores, candidatos, partidos, votos, listar os votos por candidatos e contabilizar os votos.
 
 
 
@@ -24,8 +24,11 @@ Para utilizar o softaware será necessário:
 
 - Cadastrar os cargos pelo http://localhost/phpmyadmin;
 
+- Compilar a tela 'TelaInicial';
+
 - Utilizar as telas do sistema para cadastrar os eleitores e depois para canditados.
 
+- Utilizar a tela 'TelaVotos' para votar
 
 
 Download Xampp:
