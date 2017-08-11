@@ -3,8 +3,8 @@ Sistema pode cadastro de eleitores e candidatos, listar canditados e eleitores p
 
 
 
-Esse software foi criado no segundo semestre de 2016 como trabalho final na disciplina de 
-banco de dados 2 na Universidade Tecnológica Federal do Paraná.
+Esse software foi criado por mim no segundo semestre de 2016 como trabalho final na disciplina de 
+banco de dados 2(Quinta período de engenharia de software) na Universidade Tecnológica Federal do Paraná.
 
 Para utilizar o softaware será necessário:
 
