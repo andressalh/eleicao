@@ -1,10 +1,10 @@
-# eleicao
+# Eleicao
 Sistema pode cadastro de eleitores e candidatos, listar canditados e eleitores por cidade, estado ou região, listar todas os eleitores, candidatos, partidos, votos, listar os votos por candidatos e contabilizar os votos.
 
 
 
 Esse software foi criado por mim no segundo semestre de 2016 como trabalho final na disciplina de 
-banco de dados 2(Quinta período de engenharia de software) na Universidade Tecnológica Federal do Paraná.
+banco de dados 2(Quinto período de engenharia de software) na Universidade Tecnológica Federal do Paraná.
 
 Para utilizar o softaware será necessário:
 
@@ -20,13 +20,13 @@ Para utilizar o softaware será necessário:
 
 - Cadastrar as cidades pelo http://localhost/phpmyadmin;
 
-- Cadastrar os partidos pelo http://localhost/phpmyadmin;;
+- Cadastrar os partidos pelo http://localhost/phpmyadmin;
 
 - Cadastrar os cargos pelo http://localhost/phpmyadmin;
 
 - Compilar a tela 'TelaInicial';
 
-- Utilizar as telas do sistema para cadastrar os eleitores e depois para canditados.
+- Utilizar as telas do sistema para cadastrar os eleitores e depois para cadastrar os canditados.
 
 - Utilizar a tela 'TelaVotos' para votar
 
